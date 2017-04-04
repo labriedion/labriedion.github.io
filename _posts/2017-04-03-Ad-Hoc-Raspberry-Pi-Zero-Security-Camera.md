@@ -3,7 +3,7 @@ layout: post
 title: Ad-hoc Raspberry Pi Security Camera
 ---
 
-My friend built himself a cottage and wanted a security camera for it. I decided to make one for him using a Raspberry Pi Zero and the NoIR Camera. There's a lot of [ressources](https://www.raspberrypi.org/blog/turn-your-pi-into-a-low-cost-hd-surveillance-cam/) for building [something like this](https://utbrudd.bouvet.no/2017/01/05/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero/) online. 
+My friend built himself a cottage and wanted a security camera for it. I decided to make one for him using a Raspberry Pi Zero and the NoIR Camera. There's a lot of [resources](https://www.raspberrypi.org/blog/turn-your-pi-into-a-low-cost-hd-surveillance-cam/) for building [something like this](https://utbrudd.bouvet.no/2017/01/05/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero/) online. 
 
 The problem is, there won't be an internet connection at my friend's cottage. And all of the solutions you might find assume that the Raspberry Pi can connect to the internet. By the same token, the Pi should be accessible through the home network by Wifi.
 
